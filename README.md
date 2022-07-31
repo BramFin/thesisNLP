@@ -21,4 +21,8 @@ and perform the worst on the labeled datasets.
 
 
 
+# Sentiment Score of 10-k reports from 2000-2021
 
+
+
+![finbert_sentiment_final](https://user-images.githubusercontent.com/104837565/182043303-78357a98-0e55-4823-a2f0-8368eae7c98a.png)
