@@ -13,7 +13,6 @@ performance is attributable to using syntactic information in combination with t
 The Harvard IV-4 and RNTN are both not built for financial language
 and perform the worst on the labeled datasets.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Confusion Matrix
 
 
@@ -21,6 +20,5 @@ and perform the worst on the labeled datasets.
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
