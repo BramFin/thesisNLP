@@ -1,4 +1,4 @@
-# thesisNLP
+# thesisNLP 
 
 
 In this paper I aim to compare the methods traditionally used
@@ -14,6 +14,8 @@ The Harvard IV-4 and RNTN are both not built for financial language
 and perform the worst on the labeled datasets.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Confusion Matrix
+
 
 ![harvard_all_final](https://user-images.githubusercontent.com/104837565/182042893-0f351ef9-fa05-4a79-ad19-b06db90f3430.png)         ![lm_all_final](https://user-images.githubusercontent.com/104837565/182042911-74d2f42d-dd9e-4c4e-a5bb-3999846eb442.png)  ![finbert_all_final](https://user-images.githubusercontent.com/104837565/182042938-b00e2b89-8f11-4a4b-aa31-56b26aa2ad9d.png)    ![RNTN_all_final](https://user-images.githubusercontent.com/104837565/182042943-1f41e575-fada-4515-9ae9-961204cc1587.png)
 
