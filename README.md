@@ -13,7 +13,9 @@ performance is attributable to using syntactic information in combination with t
 The Harvard IV-4 and RNTN are both not built for financial language
 and perform the worst on the labeled datasets.
 
-![picture2](https://user-images.githubusercontent.com/104837565/182042826-e88ca060-e605-4f8f-a97d-4b4a1a73ee93.png)
+![harvard_all_final](https://user-images.githubusercontent.com/104837565/182042893-0f351ef9-fa05-4a79-ad19-b06db90f3430.png) ![lm_all_final](https://user-images.githubusercontent.com/104837565/182042911-74d2f42d-dd9e-4c4e-a5bb-3999846eb442.png)
+
+
 
 
 ![finbert_sentiment_final](https://user-images.githubusercontent.com/104837565/175619120-1f83ccc3-c7c8-4a1b-8c39-698f7f7e09bb.png)
